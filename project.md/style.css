@@ -1,0 +1,20 @@
+body {
+    background-image:url("https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.head {
+    text-align:center;
+    font-size:15px;
+}
+.head > #one {
+    color:deeppink;
+    font-size:50px;
+}
+.box {
+    margin-left:250px;
+}
+.three > table
+{
+     margin-left:760px; 
+}
